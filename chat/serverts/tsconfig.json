@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "_",
+    "target": "es6",
+    // "module": "commonjs",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    // "target": "esnext",
+
+    // "module": "esnext"
+    "module": "ESNext"
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "references": []
+}
